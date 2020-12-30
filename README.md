@@ -3,4 +3,5 @@ This is a simple webpage which turns an M3u8 file into a readable and lightly st
 
 ## Example Output
 Here is an example of what the output looks like:
-![Example Output](https://imgur.com/a/eVKlNCJ)
+
+![Example Output](https://i.imgur.com/7max2n6.png)
