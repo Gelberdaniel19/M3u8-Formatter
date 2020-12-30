@@ -1,0 +1,22 @@
+#result {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.title {
+	margin-top: 50px;
+	margin-bottom: 25px;
+}
+
+#in-box {
+	height: 25vh;
+}
+
+.section-title {
+	margin-right: 3rem;
+	color: darkorchid;
+}
+
+div {
+	word-wrap: break-word;
+}

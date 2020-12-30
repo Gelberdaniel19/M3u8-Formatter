@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>M3u8 Formatter</title>
+
+		<link rel="stylesheet" href="index.css">
+		<script src="script.js"></script>
+
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css">
+	</head>
+
+	<body>
+		<div class="container">
+			<h1 class="title">M3u8 Formatter</h1>
+		</div>
+		<div id="result-container" class="container"></div>
+		<div class="container">
+			<label for="in-box">M3u8 text</label>
+			<textarea id="in-box" placeholder="Paste the m3u8 file here" wrap="soft" autofocus></textarea>
+			<button onclick="format()">Format</button>
+		</div>
+	</body>
+</html>
